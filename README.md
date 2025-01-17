@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Akshara026
-- 📫 How to reach me: 
-- 😄 Pronouns: He/Him
+-  Akshara
+-  kaise9900gmail.com 
+-  He/Him
 
 
 <!---
