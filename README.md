@@ -5,22 +5,7 @@
 # KaisexX
 
 a quiet presence in noisy data.  
-working on things that don’t always need to be explained.  
-letting models speak when words don’t.
+xo キッスランド .
 
----
 
-## selected projects
-
-- **fake-news-detector**  
-  transformers + real data + quiet truth
-
-- **paper-latex-template**  
-  academic writing that respects whitespace
-
-- **torch-trainer**  
-  minimalism meets model training
-
----
-
-> small models, sharp minds.
+> Everyone you meet is fighting a battle you know nothing about. Be kind. Always
