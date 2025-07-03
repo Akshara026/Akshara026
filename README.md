@@ -10,7 +10,7 @@
 <pre>
   💼 BTech @ NMAMIT • model realist 
   soft UIs • slow thinking
-  reader • music • anime • games
+  novel • music • anime • games
 </pre>
 
 <br><br>
