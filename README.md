@@ -1,34 +1,46 @@
-<!-- ███ KaisexX / Terminal Aesthetic ███ -->
 
-<pre align="center">
-   ╔════════════════════════════════════════════╗
-   ║                                            ║
-   ║           WELCOME TO MY TERMINAL           ║
-   ║                                            ║
-   ╚════════════════════════════════════════════╝
-</pre>
+# KaisexX@github:~$ whoami
 
-<h1 align="center"><code>KaisexX@github:~$</code> whoami</h1>
-
-```txt
-> researcher. coder. realist.
-> i train machines to think (sometimes better than people).
+> researcher. coder. realist.  
+> i train machines to think (sometimes better than people).  
 > lover of slow UIs, deep models, and aesthetic code.
 
-<h2><code>~/projects</code></h2>
+---
 
-🧠  fake-news-detector        → transformers + bert + real data
-📘  research-paper-latex      → academic journal-ready LaTeX file
-⚙️  torch-trainer-template    → hf Trainer + clean training scripts
+## ~/projects
 
-<h2><code>~/skills</code></h2>
+- **🧠 fake-news-detector**  
+  transformers + bert + real data
 
-python | torch | huggingface | pandas | sklearn | matplotlib | latex | git
+- **📘 research-paper-latex**  
+  academic journal-ready LaTeX file
 
-<h2><code>~/contact</code></h2>
+- **⚙️ torch-trainer-template**  
+  hf Trainer + clean training scripts
 
-mail     → yourname@example.com
-hugging  → https://huggingface.co/KaisexX
-github   → https://github.com/KaisexX
+---
 
-<pre align="center"> ╔═════════◇═════════╗ github stats? ok: ╚═════════◇═════════╝ </pre> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KaisexX&show_icons=true&hide_title=true&theme=tokyonight&border_color=30363d" /> </p> <pre align="center"> ~ "machine thinking is only as clean as the data it feeds on." ~ </pre> <!-- EOF -->
+## ~/skills
+
+`python` · `torch` · `huggingface` · `pandas`  
+`sklearn` · `matplotlib` · `latex` · `git`
+
+---
+
+## ~/contact
+
+- mail: yourname@example.com  
+- hugging: [huggingface.co/KaisexX](https://huggingface.co/KaisexX)  
+- github: [github.com/KaisexX](https://github.com/KaisexX)
+
+---
+
+## github stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaisexX&show_icons=true&hide_title=true&theme=tokyonight" />
+</p>
+
+---
+
+> "machine thinking is only as clean as the data it feeds on."
