@@ -9,9 +9,9 @@
 <br><br>
 
 <pre>
-entity.origin    :: celestial
+<!-- entity.origin    :: celestial
 entity.state   :: fallen
-entity.function   :: developer
+entity.function   :: developer -->
 
 BTech @ NMAMIT
 GenAI • Vision Transformer
